@@ -1,4 +1,3 @@
-"""Create presentation-ready plots from the experiment CSV outputs."""
 from pathlib import Path
 
 import matplotlib.pyplot as plt
